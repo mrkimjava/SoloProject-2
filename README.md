@@ -21,4 +21,4 @@
 <img width="700" height="500" src="https://user-images.githubusercontent.com/91609858/137045186-404b482a-9d8f-4fe2-8be7-4e000977ca6e.png"> <br>
 <img width="700" height="500" src="https://user-images.githubusercontent.com/91609858/137045208-b214a340-1583-4a6b-9f3e-acbeb60c3de9.png"> <br>
 #### 주문
-<img width="1000" height="700" src="https://user-images.githubusercontent.com/91609858/137045240-ef36d665-5929-4ee9-a468-0d55ae0df55b.PNG"> <br> <br>
+<img width="700" height="500" src="https://user-images.githubusercontent.com/91609858/137045240-ef36d665-5929-4ee9-a468-0d55ae0df55b.PNG"> <br> <br>
