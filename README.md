@@ -13,7 +13,7 @@
 
 ### 🌱ScreenShot <br>
 #### 메인
-<img width="80%" src="https://user-images.githubusercontent.com/91609858/137044852-08595173-5f2d-4be6-b949-e521c933f52c.gif"/><br>
+<img width="300" height="500" src="https://user-images.githubusercontent.com/91609858/137044852-08595173-5f2d-4be6-b949-e521c933f52c.gif"/><br>
   
 #### 회원가입
 <img src=""> <br>
