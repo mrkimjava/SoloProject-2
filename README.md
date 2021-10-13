@@ -12,11 +12,11 @@
 <br>
 
 ### 🌱ScreenShot <br>
-#### 메인화면
-<img src=""> <br>
+#### 메인
+<img width="80%" src="https://user-images.githubusercontent.com/91609858/137044852-08595173-5f2d-4be6-b949-e521c933f52c.gif"/><br>
   
-#### 회원가입#1
+#### 회원가입
 <img src=""> <br>
 
-#### 로그인화면
+#### 주문
 <img src=""> <br>
